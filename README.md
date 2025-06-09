@@ -111,4 +111,4 @@ This project is for academic use under the Independent Institute of Education.
 
 ## 🙋‍♂️ Developers
 
-Developed by *Zayyan Essack* and *Hamza Ballim* as part of the final PoE for PROG7313.
+Developed by *Zayyan Essack* and *Hamzah Ballim* as part of the final PoE for PROG7313.
